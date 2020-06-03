@@ -1,0 +1,37 @@
+_repo: Plain-Parochial-Sermons-preached-in-the-Parish-Church-of-Bolton-le-Moors_62223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Slade, James
+    birthdate: 1783
+    deathdate: 1860
+    gutenberg_agent_id: '51837'
+    url: http://www.gutenberg.org/2009/agents/51837
+    wikipedia: https://en.wikipedia.org/wiki/James_Slade
+description: ''
+gutenberg_issued: '2020-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BV'
+- !lcsh 'Episcopal Church -- Sermons'
+- GITenberg
+tableOfContents: Awake thou that sleepest and arise from the dead -- The unsearchable
+  riches of Christ -- The destruction of the flood -- The preservation from the flood
+  -- Do this great wickedness and sin against God -- On the journey to Emmaus -- If
+  they hear not Moses and the prophets -- Perfect love casteth out fear -- Humble
+  yourselves under the mighty hand of God -- Thou art the man -- The way of the Lord
+  equal -- The new man -- The wedding garment -- Walk worthy of the Lord, be fruitful
+  and increasing -- The word of the Lord precious -- Distinctions to be made on the
+  day of judgment -- God made man upright; man makes himself miserable -- The knowledge
+  of God revealed to them that fear him -- Resist the beginnings of evil temptation
+  -- The love of Christ for those who do the will of God -- On seeking out the works
+  of the Lord and praising him -- Diligence and perseverance in the Christian race.
+title: Plain Parochial Sermons, preached in the Parish Church of Bolton-le-Moors
+url: http://www.gutenberg.org/ebooks/62223
